@@ -1,0 +1,82 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#name {
+    color: #ffffff;
+    background: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    float: left;
+    line-height: 90px;
+    padding: 0px 20px 0px 20px;
+}
+
+#heading {
+    width: 960px;
+    height: 100%;
+}
+
+main {
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    background: #ffffff;
+    margin-top: 20px;
+    width: 960px;
+    overflow: auto;
+    border-color: #dddddd;
+}
+
+header {
+    border-color: #cccccc;
+    background: #ffffff;
+    height: 90px;
+    width: 100%;
+}
+
+h1 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+footer {
+    margin-top: 20px;
+    color: #ffffff;
+    background: #666666;
+    text-align: center;
+    padding-top: 20px;
+    border-top: 5px solid #4aaaa5;
+    width: 100%;
+}
+
+nav {
+    float: right;
+    font-family: 'Arial', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+li {
+    display: inline;
+    line-height: 85px;
+}
+
+a {
+    text-decoration: none;
+    color: #777777;
+    clear: both;
+}
+
+#submit {
+    color:#ffffff;
+    background: #4aaaa5;
+    border: none;
+    padding: 5px;
+}
+
+#profpic {
+    float: left;
+    width: 200px;
+}
+
+body {
+    background: #eeeeee;
+}
