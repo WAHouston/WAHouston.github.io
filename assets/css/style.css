@@ -6,7 +6,7 @@
 
 #name {
     color: #ffffff;
-    background: #4aaaa5;
+    background: maroon;
     font-family: 'Georgia', Times, Times New Roman, serif;
     float: left;
     line-height: 90px;
@@ -50,7 +50,7 @@ header {
 }
 
 h1 {
-    color: #4aaaa5;
+    color: maroon;
     font-family: 'Georgia', Times, Times New Roman, serif;
 }  
 
@@ -64,7 +64,7 @@ footer {
     background: #666666;
     text-align: center;
     line-height: 85px;
-    border-top: 5px solid #4aaaa5;
+    border-top: 5px solid maroon;
     height: 60px;
     width: 100%;
 }
@@ -89,7 +89,7 @@ li {
 
 #submit {
     color:#ffffff;
-    background: #4aaaa5;
+    background: maroon;
     border: none;
     font-size: 19px;
     padding: 10px 30px 10px 30px;
@@ -189,7 +189,7 @@ p{
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-weight: normal;
     color: #ffffff;
-    background: #4aaaa5;
+    background: maroon;
     width: 100%;
     position: absolute;
     bottom: 10px;
